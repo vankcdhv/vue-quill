@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c4f068f3-949d-4ba7-af6d-68bbcdeabee3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vue-quill.esm-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vue-quill.esm-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vue-quill.global.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vue-quill.global.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663145592993</updated>
       <workItem from="1663145594564" duration="363000" />
-      <workItem from="1663146327251" duration="3706000" />
+      <workItem from="1663146327251" duration="4627000" />
     </task>
     <servers />
   </component>

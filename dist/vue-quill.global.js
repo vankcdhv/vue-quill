@@ -4701,24 +4701,22 @@
             	  return Editor;
             	}();
 
-            	function combineFormats(formats, combined) {
-            	  return Object.keys(combined).reduce(function (merged, name) {
-            	    if (formats[name] == null) return merged;
-            	    if (combined[name] === formats[name]) {
-            	      merged[name] = combined[name];
-            	    } else if (Array.isArray(combined[name])) {
-            	      if (combined[name].indexOf(formats[name]) < 0) {
-            	        merged[name] = combined[name].concat([formats[name]]);
-            	      } else {
-                        // If style already exists, don't add to an array, but don't lose other styles
-                        merged[name] = combined[name];
-                      }
-            	    } else {
-            	      merged[name] = [combined[name], formats[name]];
-            	    }
-            	    return merged;
-            	  }, {});
-            	}
+                        function combineFormats(formats, combined) {
+                          console.log('hihi')
+                          return Object.keys(combined).reduce(function (merged, name) {
+                            if (formats[name] == null) return merged;
+                            if (combined[name] === formats[name]) {
+                              merged[name] = combined[name];
+                            } else if (Array.isArray(combined[name])) {
+
+                              merged[name] = combined[name].concat([formats[name]]);
+
+                            } else {
+                              merged[name] = [combined[name], formats[name]];
+                            }
+                            return merged;
+                          }, {});
+                        }
 
             	function normalizeDelta(delta) {
             	  return delta.reduce(function (delta, op) {
