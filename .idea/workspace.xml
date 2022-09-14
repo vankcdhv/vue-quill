@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4f068f3-949d-4ba7-af6d-68bbcdeabee3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-extractor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/examples/AddModules.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/examples/BasicExample.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/examples/ContentType.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/examples/WithForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/shims-vue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/components/TextReplacer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/.vitepress/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/.vitepress/theme/components/HomeDemo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/.vitepress/theme/components/Loading.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/.vitepress/theme/components/demo/DemoEditor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/.vitepress/theme/components/demo/VOptions.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/.vitepress/theme/components/demo/delta-content.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/.vitepress/theme/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/.vitepress/theme/styles/tailwind.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/.vitepress/theme/styles/vars.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/api/events.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/api/export.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/api/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/api/methods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/api/slots.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/guide/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/guide/installation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/guide/modules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/guide/options.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/guide/themes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/guide/toolbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/guide/usage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/quill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/content/public/tailwind-labs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/utils/github-api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/utils/load-scripts.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/utils/regex.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/components/BasicExample.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/components/ContentTypesExample.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/components/FormExample.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/components/ModulesExample.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/router/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/views/ContentTypesView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/views/FormView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/src/views/ModulesView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/tsconfig.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/vite-app/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/size-check/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/size-check/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/size-check/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/size-check/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/api-extractor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/assets.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/base.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/core.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/align-center.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/align-justify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/align-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/align-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/attachment.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/audio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/authorship.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/blockquote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/clean.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/code.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/color.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/comment.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/direction-ltr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/direction-rtl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/dropdown.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/embed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/emoji.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/float-center.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/float-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/float-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/float-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/font.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/formula.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/hashtag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/header-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/header-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/header-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/header-5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/header-6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/horizontal-rule.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/image.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/indent.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/list-bullet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/list-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/list-ordered.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/mention.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/more.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/outdent.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/redo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/size-decrease.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/size-increase.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/size.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/spacing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/speech.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/strike.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/subscript.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/superscript.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-border-all.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-border-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-border-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-border-none.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-border-outside.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-border-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-border-top.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-delete-cells.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-delete-columns.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-delete-rows.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-insert-cells.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-insert-columns.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-insert-rows.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-merge-cells.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table-unmerge-cells.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/table.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/underline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/undo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/icons/video.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/snow.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/snow/toolbar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/assets/snow/tooltip.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/components/QuillEditor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/components/options.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/vue-quill/src/shims-vue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/bootstrap.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/build.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/buildAssets.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/dev.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/devAssets.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/logger.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/release.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/setupJestEnv.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/verifyCommit.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/verifyRelease.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EkhfToi65hXDbyK1V4a9Ox5rMO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vanlt/Documents/vue-quill&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/vanlt/Documents/vue-quill/node_modules/prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/vanlt/Documents/vue-quill/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f068f3-949d-4ba7-af6d-68bbcdeabee3" name="Changes" comment="" />
+      <created>1663145592993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663145592993</updated>
+      <workItem from="1663145594564" duration="363000" />
+      <workItem from="1663146327251" duration="3229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
